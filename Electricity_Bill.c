@@ -1,13 +1,14 @@
 // Author: M.Sakiththiyan
 /*
 Usecase - Monthly Charges for the use of Electricity by two types of customers.
-Types of Customers - 1. Domestic Customers
-					 2. Samurdhi Customers
+Types of Customers:
+	1. Domestic Customers
+	2. Samurdhi Customers
 					 
-Charging Method - For the first 100 units consumed, Rs.10 will be charged per unit. 
-                  After 100 units, Rs.30 will be charged per unit.
-				  A Domestic Customer will be charged 20% of their bill along with their Monthly Charge if they have consumed more than 100 units.						 
+Charging Method:
+	For the first 100 units consumed, Rs.10 will be charged per unit. After 100 units, Rs.30 will be charged per unit. A Domestic Customer will be charged 20% of their bill along with their Monthly Charge if they have consumed more than 100 units.						 
 */
+
 #include <stdio.h>
 
 int main (void)
